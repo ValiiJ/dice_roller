@@ -14,7 +14,7 @@ void main() {
           ),
           backgroundColor: Colors.black,
         ),
-        body: const GradientContainer(
+        body: GradientContainer(
           Colors.black87,
           Colors.black,
         ),
